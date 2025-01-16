@@ -1,13 +1,13 @@
 <h1 align="center"> <b> Hi , I'm Anton Abdalla </b> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> </h1>
 
 <p align="center">
-  <a href="https://github.com/khaledmoussaaa?tab=repositories"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Hello+Everyone+Check+Repositories;"> </a>
+  <a href="https://github.com/atn20222?tab=repositories"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Hello+Everyone+Check+Repositories;"> </a>
 </p>
 
 ## <img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px> *About Me*
 <br>
 
-<img align="right" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHJtc2xqY2hwYXcxMWtwZ2JraGFvcGk5eTRsNmthYXF2MW9nNm0xNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="300px">
+<img align="right" src="https://cdn.dribbble.com/users/281525/screenshots/1768570/media/c42cd0d9a7d64036de93a1b12d3845bf.gif" width="300px">
 
 
 <br>
@@ -22,7 +22,7 @@
 <!-- 	<li><a href="https://read.cv/khaledmoussa">My Resume</a></li> -->
 </ul>
 
-<img src="https://cdn.dribbble.com/users/281525/screenshots/1768570/media/c42cd0d9a7d64036de93a1b12d3845bf.gif"><br><br>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25px"/><b> Skills </b>
 
 <p align="left">
