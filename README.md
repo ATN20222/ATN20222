@@ -53,6 +53,8 @@
 
   
 - *Database*:
+ 	<br/>
+  	<br/>
         <img src="https://img.shields.io/badge/SQLServer%20-%2300AFF0.svg?&style=for-the-badge&logo=Skype&logoColor=white"/>
 	![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white)
 	![Firebase](https://img.shields.io/badge/firebase%20-%23039BE5.svg?&style=for-the-badge&logo=firebase)
@@ -86,12 +88,10 @@
 <br>
 
 <div align='left'>
-	<a href="https://www.linkedin.com/in/khaled-moussaa?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" target="_blank">
+	<a href="https://www.linkedin.com/in/anton-abdalla" target="_blank">
 		<img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt=Linkedin style="margin-bottom: 5px;"/>
 	</a>
-	<a href="https://www.discord.com/channels/@khaledmoussa" target="_blank">
-		<img src="https://img.shields.io/badge/Discord%20-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white" alt=Discord style="margin-bottom: 5px;"/>
-	</a>
+	<br/>
 	<a href="mailto:antonabdalla30@gmail.com" target="_blank">
 		<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt=Email style="margin-bottom: 5px;"/>
 	</a>
