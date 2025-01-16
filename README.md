@@ -71,14 +71,6 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <br>
 
-<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
-<br>
-
-<div align="center">
-	<a href="https://github.com/ATN20222/">
-		<img style="height:auto;" alt="" src="https://avatars.githubusercontent.com/u/111147388?v=4" width="260" height="260" class="avatar avatar-user width-full border color-bg-default">
-	</a>
-</div>
 <br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
