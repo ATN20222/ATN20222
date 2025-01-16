@@ -13,7 +13,7 @@
 <br>
 
 <ul align="left">
-	<li> JAN 2025, Bachelor's degree from Ain Shams University with a GPA of 3.2 </li>
+	<li> JUN 2025, Bachelor's degree from Ain Shams University with a GPA of 3.2 </li>
 	<li>Full-Stack Developer with expertise in ASP.NET (backend) and React (frontend)</li>
 	<li>Proficient in modern web development practices and delivering scalable, maintainable solutions</li>
 	<li>Skilled in database structuring, API integrations, and responsive UI/UX design</li>
