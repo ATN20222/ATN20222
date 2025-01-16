@@ -41,9 +41,7 @@
 <br>
 
 - *Frameworks*:
-	![ASP.NET](<img src="https://img.shields.io/badge/<ASP .NET>%20-%2300AFF0.svg?&style=for-the-badge&logo=Skype&logoColor=white"/>)
-
-
+	![ASP.NET]<img src="https://img.shields.io/badge/.NET%20-%2300AFF0.svg?&style=for-the-badge&logo=Skype&logoColor=white"/>
 	![React](https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB)
 	![Next](https://img.shields.io/badge/NuxtJS%20-black.svg?&style=for-the-badge&logo=NuxtJS&logoColor=white)
 
