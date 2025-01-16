@@ -19,7 +19,7 @@
 	<li>Skilled in database structuring, API integrations, and responsive UI/UX design</li>
 	<li>Passionate about leveraging technology to solve real-world problems</li>
 	<li>Committed to continuous learning and improvement in software development</li>
-	<li><a href="https://read.cv/khaledmoussa">My Resume</a></li>
+<!-- 	<li><a href="https://read.cv/khaledmoussa">My Resume</a></li> -->
 </ul>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
