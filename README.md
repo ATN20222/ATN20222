@@ -37,17 +37,15 @@
 	![CSS3](https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)
 	![JavaScript](https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 	![TypeScript](https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white)
-	![PhP](https://img.shields.io/badge/php-%23777BB4.svg?&style=for-the-badge&logo=php&logoColor=white)
+	
 <br>
 
 - *Frameworks*:
-
-	![Laravel](https://img.shields.io/badge/laravel%20-%23FF2D20.svg?&style=for-the-badge&logo=laravel&logoColor=white)
-	![Next](https://img.shields.io/badge/NuxtJS%20-black.svg?&style=for-the-badge&logo=NuxtJS&logoColor=white)
+	![ASP.NET]([https://img.shields.io/badge/php-%23777BB4.svg?&style=for-the-badge&logo=php&logoColor=white](https://img.shields.io/badge/<ASP.NET>%20-%2300AFF0.svg?&style=for-the-badge&logo=Skype&logoColor=white"))
 	![React](https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB)
+	![Next](https://img.shields.io/badge/NuxtJS%20-black.svg?&style=for-the-badge&logo=NuxtJS&logoColor=white)
 
 	![Bootstrap](https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white)
-	![Tailwind](https://img.shields.io/badge/tailwindcss%20-%2338B2AC.svg?&style=for-the-badge&logo=tailwind-css&logoColor=white)
 	![jQuery](https://img.shields.io/badge/jquery%20-%230769AD.svg?&style=for-the-badge&logo=jquery&logoColor=white)
 <br>
 
@@ -55,7 +53,7 @@
 - *Database*:
 
 	![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white)
-	![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?&style=for-the-badge&logo=sqlite&logoColor=white)
+	![SQLServer]([https://img.shields.io/badge/php-%23777BB4.svg?&style=for-the-badge&logo=php&logoColor=white](https://img.shields.io/badge/<SQLServer>%20-%2300AFF0.svg?&style=for-the-badge&logo=Skype&logoColor=white"))
 	![Firebase](https://img.shields.io/badge/firebase%20-%23039BE5.svg?&style=for-the-badge&logo=firebase)
 <br>
 
@@ -74,8 +72,8 @@
 <br>
 
 <div align="center">
-	<a href="https://github.com/khaledmoussaaa/">
-		<img src="https://github-readme-stats.vercel.app/api?username=khaledmoussaaa&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="500px" alt="khaledmoussaaa"/>
+	<a href="https://github.com/ATN20222/">
+		<img style="height:auto;" alt="" src="https://avatars.githubusercontent.com/u/111147388?v=4" width="260" height="260" class="avatar avatar-user width-full border color-bg-default">
 	</a>
 </div>
 <br>
@@ -93,7 +91,7 @@
 	<a href="https://www.discord.com/channels/@khaledmoussa" target="_blank">
 		<img src="https://img.shields.io/badge/Discord%20-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white" alt=Discord style="margin-bottom: 5px;"/>
 	</a>
-	<a href="mailto:khaledmoussa909@gmail.com" target="_blank">
+	<a href="mailto:antonabdalla30@gmail.com" target="_blank">
 		<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt=Email style="margin-bottom: 5px;"/>
 	</a>
 </div>
