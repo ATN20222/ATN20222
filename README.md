@@ -1,4 +1,4 @@
-<h1 align="center"> <b> Hi , I'm Anton Abdalla </b> <img src="https://cdn.dribbble.com/users/281525/screenshots/1768570/media/c42cd0d9a7d64036de93a1b12d3845bf.gif" width="35"> </h1>
+<h1 align="center"> <b> Hi , I'm Anton Abdalla </b> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> </h1>
 
 <p align="center">
   <a href="https://github.com/khaledmoussaaa?tab=repositories"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Hello+Everyone+Check+Repositories;"> </a>
@@ -6,6 +6,8 @@
 
 ## <img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px> *About Me*
 <br>
+
+<img align="right" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHJtc2xqY2hwYXcxMWtwZ2JraGFvcGk5eTRsNmthYXF2MW9nNm0xNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="300px">
 
 
 <br>
