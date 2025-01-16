@@ -43,7 +43,7 @@
 - *Frameworks*:
 	<img src="https://img.shields.io/badge/.NET%20-%2300AFF0.svg?&style=for-the-badge&logo=Skype&logoColor=white"/>
 	![React](https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB)
-	![Next](https://img.shields.io/badge/NuxtJS%20-black.svg?&style=for-the-badge&logo=NuxtJS&logoColor=white)
+	![Next](https://img.shields.io/badge/NextJS%20-black.svg?&style=for-the-badge&logo=NuxtJS&logoColor=white)
 
 	![Bootstrap](https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white)
 	![jQuery](https://img.shields.io/badge/jquery%20-%230769AD.svg?&style=for-the-badge&logo=jquery&logoColor=white)
